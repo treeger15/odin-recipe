@@ -8,6 +8,16 @@ body{
 
 }
 
+#mainimage { 
+    background-color: bisque;
+
+}
+.center{
+    background-color:yellow;
+    
+    margin: auto;
+
+}
 h1{
     background-color:lightskyblue;
     width: 350px; 
