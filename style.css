@@ -8,14 +8,21 @@ body{
 
 }
 
-#mainimage { 
-    background-color: bisque;
+.container img { 
+    display: block;
+    background-color: black;
+    margin: 0 auto;
+    padding:10px;
 
 }
-.center{
+.container{
     background-color:yellow;
+    width:1000px;
+    margin: 0 auto;
+    padding:10px;
+    text-align: center;
     
-    margin: auto;
+    
 
 }
 h1{
