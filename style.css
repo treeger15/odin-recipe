@@ -37,9 +37,19 @@ h1{
     text-align: center;
 }
 
+h2{
+    text-align: center;
+    border-bottom: 2px solid navy;
+    width:450px;
+    margin: 0 auto;
+   padding:10px;
+}
 ul{
+    box-sizing: border-box;
     background-color: aliceblue;
-    padding: 5px;
+    padding: 20px 10px 20px 50px ;
     margin:0 auto;
-    width: 500px;
+    width: 400px;
+    border-radius: 20px;
+    border: 2px solid lightskyblue;
 }
